@@ -1,0 +1,46 @@
+form{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:initial;
+    padding: 10px;
+    background: rgb(219, 111, 219);
+    background-position: center;
+    border-radius: 9px;
+    width: fit-content;
+    margin:auto;
+    box-shadow: 2px 2px 3px ;
+
+}
+body {
+    background-color: rgb(92, 92, 153);
+    background-position: center;
+}
+input{
+    width: 80%;
+    text-align: center;
+    height: 30px;
+    color: black;
+    font-size:18px;
+    border: 5px 5px 5px 5px;
+    border-radius: 9px;
+    border: none;
+    background-color: rgb(227, 227, 240);
+}
+select{
+    border-radius: 9px;
+    width: 80%;
+    text-align: left;
+    height: 32px;
+    border: 5px 5px 5px 5px;
+    background-color: rgb(227, 227, 240);
+
+}
+button {
+    background-color: green;
+    width: 40%;
+    height: 40px;
+    border-radius: 9px;
+    color: white;
+}

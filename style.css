@@ -1,0 +1,18 @@
+table{
+    padding: 10px 10px 10px 10px;
+    background: rgb(67, 112, 180);
+    border-radius: 9px;
+}
+marquee{
+    border-radius: 20px;
+    border: 1px solid blue;
+    color: green;
+    background: rgb(168, 166, 168);
+    width:100%;
+}
+input{
+    border-radius: 9px;
+}
+button{
+    padding: 10px 10px 10px 10px;
+}
